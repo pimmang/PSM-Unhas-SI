@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* @layer components{
+
+
+    .shadow-center{
+        @apply shadow-[0_0_10px_rgba(0,0,0,0.2)];
+    }
+} */
